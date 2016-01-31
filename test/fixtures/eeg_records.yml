@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  timestamp: 2016-01-30 20:49:44
+  attention: 1
+  meditation: 1
+  delta: 1.5
+  theta: 1.5
+  low_alpha: 1.5
+  high_alpha: 1.5
+  low_beta: 1.5
+  high_beta: 1.5
+  low_gamma: 1.5
+  high_gamma: 1.5
+  poor_signal: 
+  blinks: 
+  max_blink: 1.5
+
+two:
+  timestamp: 2016-01-30 20:49:44
+  attention: 1
+  meditation: 1
+  delta: 1.5
+  theta: 1.5
+  low_alpha: 1.5
+  high_alpha: 1.5
+  low_beta: 1.5
+  high_beta: 1.5
+  low_gamma: 1.5
+  high_gamma: 1.5
+  poor_signal: 
+  blinks: 
+  max_blink: 1.5

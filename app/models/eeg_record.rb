@@ -1,0 +1,2 @@
+class EegRecord < ApplicationRecord
+end
