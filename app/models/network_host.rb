@@ -1,0 +1,2 @@
+class NetworkHost < ApplicationRecord
+end
